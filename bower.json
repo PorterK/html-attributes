@@ -1,0 +1,19 @@
+{
+  "name": "html-attributes",
+  "version": "1.0.0",
+  "description": "List of HTML attributes as a map of camelCased names.",
+  "homepage": "https://github.com/alexmingoia/html-attributes",
+  "authors": [
+    "Alex Mingoia <talk@alexmingoia.com>"
+  ],
+  "keywords": [],
+  "main": "./dist/html-attributes.js",
+  "dependencies": {},
+  "ignore": [
+    "coverage.html",
+    "node_modules",
+    "lib-cov",
+    "test"
+  ],
+  "license": "Open Works License (OWL)"
+}
