@@ -1,7 +1,7 @@
 {
   "name": "html-attributes",
   "description": "List of HTML attributes as a map of camelCased names.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/alexmingoia/html-attributes",
   "author": {
     "name": "Alex Mingoia",
