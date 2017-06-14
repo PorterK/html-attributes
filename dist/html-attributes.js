@@ -127,6 +127,7 @@ module.exports = {
   "tabIndex": "tabindex",
   "target": "target",
   "title": "title",
+  "transform": "transform",
   "translate": "translate",
   "type": "type",
   "typeMustMatch": "typemustmatch",
